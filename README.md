@@ -1,1 +1,1 @@
-# credit-risk-supervised-ml
+# Predict credit risk using ML supervised algorithms and resampling stategies.
